@@ -2,7 +2,7 @@
 
 /*
 Autor:      Yuri Lemos
-Drescrição: Programa que le 2 numero e indica o maior,
+Drescrição: Programa que le 2 numeros e indica o maior,
             caso sejam iguais, escreve que sao iguais.
 Data:       06/10/2019
 */
@@ -22,7 +22,7 @@ void main(){
         printf("O nummero %d e o maior",numero1);
         fflush(stdin);
         getchar();
-    }else{                      //CONDICAO CASO O NUMERO 1 NAO SEJA MAIOR
+    }else{                      //CASO O NUMERO 1 NAO SEJA MAIOR
         printf("O nummero %d e o maior",numero2);
         fflush(stdin);
         getchar();
