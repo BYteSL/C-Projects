@@ -14,15 +14,15 @@ void main(){
     printf("Insira o segundo numero: ");
     scanf("%d",&numero2);    //INPUT DO NUMERO 2 PELO UTILIZADOR
 
-    if(numero1==numero2){         //VERIFICA SE O RESTO DA DIVISAO É ZERO
+    if(numero1==numero2){         //VERIFICA SE SAO IGUAIS
         printf("Os numeros sao iguais!");
         fflush(stdin);
         getchar();
-    }else if(numero1>numero2){
+    }else if(numero1>numero2){  //VERIFICA SE O NUMERO 1 E MAIOR
         printf("O nummero %d e o maior",numero1);
         fflush(stdin);
         getchar();
-    }else{
+    }else{                      //CONDICAO CASO O NUMERO 1 NAO SEJA MAIOR
         printf("O nummero %d e o maior",numero2);
         fflush(stdin);
         getchar();
