@@ -19,11 +19,11 @@ void main(){
         fflush(stdin);
         getchar();
     }else if(numero1>numero2){  //VERIFICA SE O NUMERO 1 E MAIOR
-        printf("O nummero %d e o maior",numero1);
+        printf("O numero %d e o maior",numero1);
         fflush(stdin);
         getchar();
     }else{                      //CASO O NUMERO 1 NAO SEJA MAIOR
-        printf("O nummero %d e o maior",numero2);
+        printf("O numero %d e o maior",numero2);
         fflush(stdin);
         getchar();
     }
