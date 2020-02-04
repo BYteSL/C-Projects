@@ -214,11 +214,11 @@ public class Marcacoes extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
     
     private void sopaAratumActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_sopaAratumActionPerformed
-        JOptionPane.showMessageDialog(rootPane, "Sopa com sobor a abrotia e balghhoanmdfa");
+        JOptionPane.showMessageDialog(rootPane, "Sopa com sobor a abóbora");
     }//GEN-LAST:event_sopaAratumActionPerformed
 
     private void sopaTomishoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_sopaTomishoActionPerformed
-        JOptionPane.showConfirmDialog(rootPane, "Tua prima de quatro!!!!");
+        JOptionPane.showConfirmDialog(rootPane, "Sopa com sobor a tomate");
     }//GEN-LAST:event_sopaTomishoActionPerformed
 
     private void jToggleButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton1ActionPerformed
