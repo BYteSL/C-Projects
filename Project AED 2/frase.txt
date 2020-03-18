@@ -1,5 +1,0 @@
-Now Now RB 0.998694
-there there RB 1
-is be VBZ 1
-a a DT 0.998827
-Dreadfull Dreadfull DT 0.654536
